@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BhagwatPriyanka
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning PowerBI and Google Analytics
-- 💞️ I’m looking to collaborate on Python Projects.
+- 👀 I’m interested in Data Analytics.
+- 💞️ I’m looking to collaborate on analytics Projects.
 - 📫 How to reach me : Email - priyankabhagwat14r@gmail.com
 
 <!---
